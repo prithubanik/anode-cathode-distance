@@ -7,11 +7,8 @@ This repository contains computer-vision experiments for **anode/cathode segment
 ```text
 anode-cathode-distance/
 ├── mask2former/          # Mask2Former-based anode/cathode segmentation
-├── yolo/                 # YOLO-based detection/segmentation and distance calculation
-├── sam/                  # Reserved for SAM-based experiments
 ├── maskrcnn/             # Reserved for Mask R-CNN experiments
-├── unet/                 # Reserved for U-Net experiments
-└── other/                # Supporting experiments and error analysis
+
 ```
 
 ## Main focus
